@@ -18,7 +18,7 @@ export default function Home() {
             Pest Control
           </a>
           <div class="tel">
-            <a href="tel:+18558108263">(855) 810-82-63</a>
+            <a href="tel:+18332464504">(833) 246-45-04</a>
           </div>
         </div>
       </header>
@@ -30,8 +30,8 @@ export default function Home() {
               <br /> Services in <span class="city">USA</span>
             </h1>
             <p>Connect with Local Exterminator & Get Your Quote</p>
-            <a href="tel:+18558108263" class="button-1">
-              Call (855) 810-82-63
+            <a href="tel:+18332464504" class="button-1">
+              Call (833) 246-45-04
             </a>
             <div class="header-img">
               <img src="header-img.svg" alt="#" />
@@ -198,8 +198,8 @@ export default function Home() {
               <br /> Exterminator & Get Free Estimate
             </h3>
 
-            <a href="tel:+18558108263" class="button-1">
-              Call us 24/7 (855) 810-82-63
+            <a href="tel:+18332464504" class="button-1">
+              Call us 24/7 (833) 246-45-04
             </a>
           </div>
         </div>
@@ -220,7 +220,7 @@ export default function Home() {
               </li>
             </ul>
             <div class="tel2">
-              <a href="tel:+18558108263">(855) 810-82-63</a>
+              <a href="tel:+18332464504">(833) 246-45-04</a>
             </div>
             <div id="legal"></div>
           </div>
