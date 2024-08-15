@@ -210,13 +210,10 @@ export default function Home() {
             </a>
             <ul>
               <li>
-                <a href="privacy-policy.html">Privacy Policy</a>
+                <a href="/Privacy-Policy">Privacy Policy</a>
               </li>
               <li>
-                <a href="california.html">California Privacy Rights</a>
-              </li>
-              <li>
-                <a href="terms.html">Terms of Use</a>
+                <a href="/Terms-of-Use">Terms of Use</a>
               </li>
             </ul>
             <div class="tel2">
