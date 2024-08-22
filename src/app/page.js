@@ -220,6 +220,16 @@ export default function Home() {
               <a href="tel:+18332464504">(833) 246-45-04</a>
             </div>
             <div id="legal"></div>
+            <div className="disclaimer">
+              Disclaimer: Pest Control is a free service to assist homeowners in
+              connecting with local service providers. All contractors/providers
+              are independent and Pest Control does not warrant or guarantee any
+              work performed. It is the responsibility of the homeowner to
+              verify that the hired contractor furnishes the necessary license
+              and insurance required for the work being performed. All persons
+              depicted in a photo or video are actors or models and not
+              contractors listed on Pest Control.
+            </div>
           </div>
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
